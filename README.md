@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; ">
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">
   Hi there, I'm <strong>Muhammad Mudassir Zaman</strong>
 </h1>
 
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" />
-
+  
 </p>
 
 ---
@@ -31,7 +31,8 @@
 ## 📫 Contact Me
 
 - **Email:** zamanmudassir193@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/muhammad-mudassir-zaman](https://www.linkedin.com/in/muhammad-mudassir-zaman)
+- **LinkedIn:** [linkedin.com/in/muhammad-mudassir-zaman](https://www.linkedin.com/in/muhammad-mudassir-zaman-a6722a2b7)
 
 ---
 
+> “Consistency beats talent when talent doesn’t show up.”
