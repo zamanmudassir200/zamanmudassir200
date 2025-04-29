@@ -1,52 +1,35 @@
-# Hi, I'm Muhammad Mudassir Zaman — Full Stack Web Developer
+<h1 align="center">
+  Hi there, I'm Muhammad Mudassir Zaman
+</h1>
 
-I'm a passionate Full Stack Developer with hands-on experience in building modern web applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I love turning ideas into real-world, user-friendly solutions.
-
-## 💻 Tech Stack
-
-- **Frontend:** React.js, Next.js, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB, Mongoose
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Postman, VS Code
-
-## 🔧 Skills
-
-- Building responsive, dynamic UIs
-- JWT Authentication and session handling
-- CRUD operations and REST API integration
-- State Management (Context API, Redux)
-- MVC architecture and clean code practices
-- Testing & debugging
-- MongoDB schema design and relationships
-
-## 🚀 Projects
-
-Here are a few highlights:
-
-### 1. MERN Bookstore App  
-A full-featured CRUD application to manage books with authentication and clean UI.  
-**[Live Demo](https://mern-stack-projects-q2j2.vercel.app/)** | **[GitHub Repo](https://github.com/yourusername/mern-bookstore)**
-
-### 2. Weather App (React)  
-Fetches real-time weather using a public API.  
-**[GitHub Repo](https://github.com/yourusername/weather-app)**
-
-### 3. To-Do List (React + CRUD)  
-Simple app to manage tasks locally.  
-**[GitHub Repo](https://github.com/yourusername/todo-app)**
-
-*(Add more if you like!)*
-
-## 📫 Let's Connect!
-
-I'm actively looking for opportunities to collaborate, contribute, or join a team. Feel free to reach out!
-
-- **Email:** yourname@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1F74D2&center=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## 🛠️ Tech Stack
 
-Thanks for visiting!
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- **Email:** yourname@example.com  
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+
+---
+
+> “Consistency beats talent when talent doesn’t show up.”
